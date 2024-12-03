@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-soumya
-df jfskn
-=======
-hdfakdbk
->>>>>>> feature
+i am soumya
